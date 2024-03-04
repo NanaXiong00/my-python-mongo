@@ -1,7 +1,14 @@
 [
   {
-    "name": "aaaaaaaaaaaaaaaa",
-    "description": "A starter template with Bicep as infrastructure provider",
-    "repositoryPath": "cognitive-services-speech-sdk"
-  }
+    "title": "11111111111111",
+    "description": "2222222222222222222222222222222222222222",
+    "preview": "./templates/images/test.png",
+    "website": "https://github.com/Azure/azure-dev",
+    "author": "Azure Dev",
+    "source": "https://github.com/Azure-Samples/azd-starter-bicep",
+    "tags": [
+        "bicep",
+        "msft"
+    ]
+  } 
 ]
