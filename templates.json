@@ -1,7 +1,7 @@
 [
-  {
-    "name": "aaaaaaaaaaaaaaaaaa",
-    "description": "A starter template with Bicep as infrastructure provider",
-    "repositoryPath": "cognitive-services-speech-sdk"
-  }
+    {
+      "name": "aaaaaaaaaaaaaaaaaa",
+      "description": "A starter template with Bicep as infrastructure provider",
+      "repositoryPath": "https://github.com/Azure-Samples/cognitive-services-speech-sdk"
+    }
 ]
